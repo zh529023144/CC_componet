@@ -1,0 +1,1 @@
+include ':app', ':facemodule', ':controlmodule', ':component_base'
